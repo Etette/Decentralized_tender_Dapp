@@ -1,0 +1,11 @@
+{
+  "name": "tender1.1",
+  "version": "1.0.0",
+  "description": "tender contract with thirdweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Etette",
+  "license": "ISC"
+}
